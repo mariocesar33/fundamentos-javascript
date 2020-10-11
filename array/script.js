@@ -29,9 +29,3 @@ for(let i = 0; i < nota.length; i++ ) {
   i =+ i;
   console.log(i);
 }
-
-
-
-
-
-
